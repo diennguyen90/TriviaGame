@@ -1,0 +1,20 @@
+#quizDiv{
+    height: 300px;
+    width:800px;
+    border:solid;
+    margin: auto;
+    text-align:center;
+}
+#results{
+    margin: auto;
+    text-align:center;
+}
+
+#finalAns{
+    margin: auto;
+    text-align:center;
+}
+body{
+    background-image: url('http://images1.fanpop.com/images/photos/2600000/Pok-mon-pokemon-2603105-1680-1050.jpg');
+    background-size: cover;
+}
